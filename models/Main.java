@@ -1,7 +1,6 @@
 import java.util.Scanner;
-
 // هذا الكلاس يحتوي فقط على main لتشغيل النظام
-public class LibraryApp {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         LibrarySystem library = new LibrarySystem(); // إنشاء نسخة من نظام المكتبة
